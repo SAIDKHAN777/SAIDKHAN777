@@ -3,13 +3,13 @@
 <p align="left">
 <img width="400" height="70" alt="hi_said_khan_left" src="https://github.com/user-attachments/assets/9ce2b9d6-c84b-4e87-9cc5-e4275f398bdd" />
 
- ### 🚀 Developer & Automation Engineer
+ ### Developer & Automation Engineer
 
 Building intelligent web and mobile applications powered by Python and AI. Passionate about designing end-to-end software, streamlining workflows through custom automation, and solving real-world problems with scalable code.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
