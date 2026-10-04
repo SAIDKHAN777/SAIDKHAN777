@@ -35,5 +35,12 @@ Building intelligent web and mobile applications powered by Python and AI. Passi
 ---
 
 ### 🌐 Connect With Me
-
+<div align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="linkedin.com/in/md-said-khan-2b4568431" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIDKHAN777)
