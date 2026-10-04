@@ -24,8 +24,9 @@ Building intelligent web and mobile applications powered by Python and AI. Passi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAIDKHAN777&show_icons=true&theme=radical" alt="Said Khan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIDKHAN777&layout=compact&theme=radical" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=SAIDKHAN777&show_icons=true&bg_color=fdfbf7&title_color=e63946&text_color=111111&icon_color=e5a93c" alt="Said Khan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIDKHAN777&layout=compact&bg_color=fdfbf7&title_color=e63946&text_color=111111" alt="Top Languages" /> 
+  
 </p>
 
 ---
