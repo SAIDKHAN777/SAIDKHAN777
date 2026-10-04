@@ -1,6 +1,9 @@
-# Hi there, I'm Said Khan 👋
+<p align="center">
+ <img width="700" height="69" alt="one_line_small" src="https://github.com/user-attachments/assets/47e27d16-8fd0-4f1a-af60-2ec3abd2c1e0" />
+<p align="left">
+<img width="400" height="70" alt="hi_said_khan_left" src="https://github.com/user-attachments/assets/9ce2b9d6-c84b-4e87-9cc5-e4275f398bdd" />
 
-### 🚀 Developer & Automation Engineer
+ ### 🚀 Developer & Automation Engineer
 
 Building intelligent web and mobile applications powered by Python and AI. Passionate about designing end-to-end software, streamlining workflows through custom automation, and solving real-world problems with scalable code.
 
